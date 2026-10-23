@@ -1,0 +1,18 @@
+main {
+  max-width: 680px;
+  margin: 80px auto;
+  padding: 0 24px;
+}
+
+input {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 12px;
+  font: inherit;
+  border: 1px solid #888;
+  border-radius: 6px;
+}
+
+code {
+  font-size: 0.95em;
+}
